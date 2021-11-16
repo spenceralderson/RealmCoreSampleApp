@@ -1,0 +1,6 @@
+framework module Pods_ModuleSampleAppClean {
+  umbrella header "Pods-ModuleSampleAppClean-umbrella.h"
+
+  export *
+  module * { export * }
+}
