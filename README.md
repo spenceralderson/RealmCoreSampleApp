@@ -1,2 +1,2 @@
 # RealmCoreSampleApp
- USed to demonstrate error occuring in linking phase of realmCore app
+ Used to demonstrate error occuring in linking phase of realmCore.
